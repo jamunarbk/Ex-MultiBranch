@@ -13,7 +13,7 @@ echo "Running tests on MAIN branch"
 } 
 stage('Deploy') { 
 steps { 
-echo "Production Build" 
+echo "Development Build" 
 } 
 } 
 } 
